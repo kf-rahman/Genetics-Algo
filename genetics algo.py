@@ -10,7 +10,7 @@ def fitness(x,y,z):
     else:
         return abs(1/ans)
 
-#generating solutions
+#generating solutions #this change should be on the test branch
 
 solution_set  = []
 for num in range(1000):
