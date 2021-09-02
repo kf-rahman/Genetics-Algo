@@ -1,6 +1,6 @@
 import random
 def problem(x,y,z):
-    return 10*x**3+9*y**2+90*z-69
+    return 10*x**3+9*y**3+90*z-69
 
 def fitness(x,y,z):
     ans = problem(x,y,z)
