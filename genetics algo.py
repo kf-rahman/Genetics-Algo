@@ -10,7 +10,7 @@ def fitness(x,y,z):
     else:
         return abs(1/ans)
 
-#generating solutions
+#generating solutions # this is a test command
 
 solution_set  = []
 for num in range(1000):
